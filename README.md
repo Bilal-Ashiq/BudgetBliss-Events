@@ -1,6 +1,6 @@
 📱 BudgetBliss Events
 
-BudgetBliss Events is a cross-platform mobile application designed to help users find, plan, and manage events like weddings, birthdays, corporate functions, and private parties — all within a specific budget.
+BudgetBliss Events is a cross-platform androird mobile application designed to help users find, plan, and manage events like weddings, birthdays, corporate functions, and private parties — all within a specific budget.
 the app also features vendor bidding, personalized recommendations, and real-time updates.
 
  🚀 Features
