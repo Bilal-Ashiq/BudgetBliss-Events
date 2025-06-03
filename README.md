@@ -19,7 +19,7 @@ You can download and install the **latest version** of the app by following thes
 1. Visit the GitHub Repository
    👉 [https://github.com/Bilal-Ashiq/BudgetBliss-Events](https://github.com/Bilal-Ashiq/BudgetBliss-Events)
 
-2. Find the APK file (e.g., `BudgetBliss.apk`) in the root folder or in the Releases section.
+2. Find the APK file (e.g., `app-debug.apk.`) in the root folder or in the Releases section.
 
 3. Click to download the file on your Android device or PC.
 
