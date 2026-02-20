@@ -32,10 +32,23 @@ You can download and install the **latest version** of the app by following thes
 
 6. Install the app and start exploring BudgetBliss Events!
 
-👨‍💻 Contributors
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/dda8885b-047d-4c02-91a5-cc5a52c608cc" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c852e687-1ac8-4dd5-819a-fe995eb80d37" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/677d2fed-5747-4402-8a0a-e5b1ab754c05" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/01362f67-8c95-4b04-afbe-9c2248731f71" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/52bb48e6-6a73-4987-bb2a-6d1328773444" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a2a8672c-1789-402e-a901-b1045cb6f6f7" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c5ab088c-5340-4c9c-af1e-417de30b03f7" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/05bf701a-e251-43f4-8fd1-a9ba5f3b5ebd" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/b370c28c-1815-4f81-a33d-003fbf3872a4" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2c292cf2-5e11-4605-987c-8e2837c70d3c" />
 
-* Bilal Ashiq – Design & Deployment
-* Ashar – Frontend Development
-* Sabahat – Backend Development & Integration
+
+
+
+
+
+
+
 
 
