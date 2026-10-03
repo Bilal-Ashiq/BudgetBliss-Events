@@ -1,0 +1,39 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.gradle/
+
+# Local configuration
+local.properties
+
+# Build outputs
+build/
+app/build/
+*/build/
+
+# APK / App Bundle generated files
+*.apk
+*.aab
+
+# Native build files
+.externalNativeBuild/
+.cxx/
+
+# Android Studio generated files
+captures/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Signing / Keystore files - NEVER upload these
+*.jks
+*.keystore
+
+# Environment / Secrets
+.env
+.env.*
+# Firebase configuration
+google-services.json
+# Local Firebase security rules
+firestore.rules

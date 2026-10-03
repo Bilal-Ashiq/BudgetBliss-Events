@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_all_events"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/all_events" />
+
+    <item
+        android:id="@+id/navigation_new_events"
+        android:icon="@drawable/outline_announcement_24"
+        android:title="@string/new_events" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/outline_announcement_24"
+        android:title="@string/chat" />
+
+</menu>
